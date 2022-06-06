@@ -52,6 +52,7 @@ function fizzbuzz(n)
 ```
 ***
 ## Experience:
+### Github: [My CV](https://Valery-Bolotin.github.io/rsschool-cv/cv)
 ### Lectures on Youtube
 
 ***
