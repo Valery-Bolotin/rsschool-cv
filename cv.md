@@ -2,7 +2,7 @@
 
 # Valery Bolotin
 
-![](021.jpg)
+![](main.jpg)
 
 ## Junior Frontend Developer
 ***
