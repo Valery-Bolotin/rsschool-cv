@@ -1,5 +1,3 @@
-## rsschool-cv
-
 # Valery Bolotin
 
 ![](main.jpg)
