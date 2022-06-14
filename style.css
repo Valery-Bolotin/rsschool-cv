@@ -44,12 +44,11 @@ body{
 
 /*------Header--------*/
 .header{
-    margin-bottom: 70px;
-    align-items: center;
+   margin-bottom: 50px;
 }
 .header-text{
  display: flex;   
- justify-content: space-around;
+ justify-content: space-between;
 align-items: center;
 
     }
@@ -273,4 +272,3 @@ color: orange;
  
  .footer *:not(:last-child){
     margin: 0 200px 0 0;}
-
